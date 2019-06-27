@@ -12,9 +12,6 @@ set history=700
 " Enable filetype plugins
 filetype plugin on
 filetype indent on
-"Let vim know about python2 executable
-let g:python_host_prog='/alphadata04/lienert/anaconda3/envs/nvim2/bin/python'
-let g:python3_host_prog='/alphadata04/lienert/anaconda3/envs/nvim3/bin/python'
 
 " Set scrolloff (numbers of lines below cursor) usefull for searches
 set so=10

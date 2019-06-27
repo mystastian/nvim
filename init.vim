@@ -1,6 +1,7 @@
 source ~/.config/nvim/basic.vim
 source ~/.config/nvim/plugins.vim
 source ~/.config/nvim/filetypes.vim
+source ~/.config/nvim/local.vim
 
 call plug#begin()
 Plug 'Shougo/deoplete.nvim', { 'do': ':UpdateRemotePlugins', 'tag':'4.1'}
