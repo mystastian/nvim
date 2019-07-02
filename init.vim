@@ -44,5 +44,8 @@ Plug 'tpope/vim-commentary'
 "Fugitive (Git Wrapper)
 Plug 'tpope/vim-fugitive'
 Plug 'shumphrey/fugitive-gitlab.vim'
+"Notes
+Plug 'xolox/vim-notes'
+Plug 'xolox/vim-misc'
 call plug#end()
 
